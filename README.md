@@ -12,7 +12,8 @@ enclose --loglevel info -o <output_executable> ./organiser.js
 ```
 then move the executable in the desired folder and run it. (it does not support params, yet)
 
-Or you can trust me and download the already compiled exe for Windows :)
+Or you can trust me and download the already compiled exe for Windows from [here](https://github.com/AlexandruSimandi/file-organiser/releases) :)
+
 
 Or you could move everything in the desired folder and run
 ```
