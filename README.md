@@ -2,7 +2,7 @@
 
 Simple script that groups every file in the current dir based on type.
 
-Unknown types by this script are left unharmed
+Types unknown by this script are not moved.
 
 Run 
 ```
